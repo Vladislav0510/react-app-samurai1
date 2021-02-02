@@ -1,0 +1,16 @@
+.post {
+    color: white;
+
+}
+.post .postAva img {
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    margin-top: 10px;
+}
+
+.postLike img {
+    width: 25px;
+    height: 25px;
+    border-radius: 10px;
+}

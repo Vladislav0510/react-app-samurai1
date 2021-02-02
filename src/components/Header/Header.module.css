@@ -1,0 +1,15 @@
+/*.header {*/
+/*    text-align: center;*/
+/*}*/
+.header {
+    grid-area: h;
+    background-color: lightskyblue;
+    border:2px solid gold;
+}
+
+.headerName {
+    text-align: center;
+    color: white;
+    font-family: "Agency FB";
+    font-size: 2em;
+}
