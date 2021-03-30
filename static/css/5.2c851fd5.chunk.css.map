@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/components/Navbar/News/News.module.css"],"names":[],"mappings":"AAAA,yBACI,UACJ","file":"5.2c851fd5.chunk.css","sourcesContent":[".newsContent {\r\n    color: white;\r\n}"]}

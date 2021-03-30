@@ -1,0 +1,2 @@
+(this["webpackJsonpsamurai-1"]=this["webpackJsonpsamurai-1"]||[]).push([[4],{254:function(s,t,n){s.exports={musicContent:"Music_musicContent__1-tGy"}},258:function(s,t,n){"use strict";n.r(t);var i=n(1),c=n(254),u=n.n(c);t.default=function(){return Object(i.jsx)("div",{className:u.a.musicContent,children:"Music"})}}}]);
+//# sourceMappingURL=4.fa3635f5.chunk.js.map
